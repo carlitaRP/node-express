@@ -1,0 +1,9 @@
+{
+  "name"  : "Carla Ramirez",
+  "email" : "zS20006731@estudiantes.uv.mx",
+  "cel"   : "(271) 197 1078",
+  "social": {
+    "face": "^2.8.5",
+    "x": "^4.18.2"
+  }
+}
