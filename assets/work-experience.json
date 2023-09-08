@@ -1,0 +1,31 @@
+
+    {
+      "title": "Work Experience",
+      "jobs": [
+        {
+          "position": "Desarrollador de software",
+          "company": "Empresa Universidad Veracruzana",
+          "startDate": "Enero 2020",
+          "endDate": "Presente",
+          "city": "Ciudad Orizaba",
+          "country": "País México",
+          "achievements": [
+            "Desarrollo de aplicaciones web y móviles utilizando Angular y Node.js.",
+            "Colaboración en proyectos de gran envergadura."
+          ]
+        },
+        {
+          "position": "Analista de datos",
+          "company": "Empresa XYZ",
+          "startDate": "Julio 2018",
+          "endDate": "Diciembre 2019",
+          "city": "Ciudad Orizaba",
+          "country": "País México",
+          "achievements": [
+            "Análisis de datos y generación de informes para la toma de decisiones.",
+            "Optimización de procesos de análisis de datos."
+          ]
+        }
+      ]
+    }
+  
