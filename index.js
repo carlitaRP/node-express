@@ -29,6 +29,10 @@ app.get('/work-experience', (req, res, next) => {
     res.sendfile("assets/certificates.json");
     });
 
+    app.get('/interests', (req, res, next) => {
+      res.sendfile("assets/interests.json");
+      });
+
 app.listen(port,  () => 
 	console.log('listening on port ' + port
 ));
